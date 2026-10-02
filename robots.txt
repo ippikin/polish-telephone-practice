@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ippikin.github.io/polish-telephone-practice/sitemap.xml
+Sitemap: https://ippikin.github.io/sitemap.xml
